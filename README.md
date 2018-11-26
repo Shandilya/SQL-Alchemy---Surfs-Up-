@@ -1,4 +1,4 @@
-# SQL-Alchemy---Surfs-Up-
+# SQL-Alchemy - Surfs-Up
 Assignment - Surfs Up!
 # Surfs Up!
 
